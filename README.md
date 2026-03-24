@@ -6,7 +6,7 @@
 
 [![GitHub stars](https://img.shields.io/github/stars/tipuraihanff-art/donghuaworld.com-API?style=for-the-badge&color=gold)](https://github.com/tipuraihanff-art/donghuaworld.com-API/stargazers)
 [![Forks](https://img.shields.io/github/forks/tipuraihanff-art/donghuaworld.com-API?style=for-the-badge&color=blue)](https://github.com/tipuraihanff-art/donghuaworld.com-API/network/members)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
+[![License: BSD 3-Clause](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg?style=for-the-badge)](https://opensource.org/licenses/BSD-3-Clause)
 
 </div>
 
@@ -53,7 +53,7 @@ Since this is a community-focused project, your help is welcome!
 
 ## 📝 License
 
-Distributed under the **MIT License**. See `LICENSE` for more information.
+Distributed under the **BSD 3-Clause License**. This license allows for broad use while prohibiting the use of the author's name for promotion without permission. See `LICENSE` for more information.
 
 ---
 <p align="center">Built with ❤️ for the community.</p>
