@@ -1,13 +1,11 @@
-# 🚀 donghuaworld API Project
+# 🚀 DonghuaWorld API
 
 <div align="center">
 
-[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
-&nbsp;&nbsp;
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new)
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/tipuraihanff-art/donghuaworld.com-API)
 
-[![GitHub stars](https://img.shields.io/github/stars/YOUR_USERNAME/YOUR_REPO_NAME?style=for-the-badge&color=gold)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME)
-[![Forks](https://img.shields.io/github/forks/YOUR_USERNAME/YOUR_REPO_NAME?style=for-the-badge&color=blue)](https://github.com/YOUR_USERNAME/YOUR_REPO_NAME/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/tipuraihanff-art/donghuaworld.com-API?style=for-the-badge&color=gold)](https://github.com/tipuraihanff-art/donghuaworld.com-API/stargazers)
+[![Forks](https://img.shields.io/github/forks/tipuraihanff-art/donghuaworld.com-API?style=for-the-badge&color=blue)](https://github.com/tipuraihanff-art/donghuaworld.com-API/network/members)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg?style=for-the-badge)](https://opensource.org/licenses/MIT)
 
 </div>
@@ -19,7 +17,7 @@
 **I am currently not working on this code anymore.** I built this API for fun and to contribute to the developer community.
 
 > [!IMPORTANT]
-> **Support notice:** If this project receives enough community support (stars, forks, and contributions), I may consider returning to active development and adding new features. Until then, the code is open for everyone to customize.
+> **Support Notice:** If this project receives enough community support (stars, forks, and contributions), I may consider returning to active development and adding new features. Until then, the code is open for everyone to customize and build upon.
 
 ---
 
@@ -27,21 +25,19 @@
 
 Please note the current state of the API features:
 
-* ✨ **[Verified] Streaming Endpoints:** Fully checked and working perfectly.
-* 🎲 **[Verified] Random Endpoints:** Fully checked and working perfectly.
+* ✨ **[Verified] Streaming Endpoints:** Fully checked and confirmed to be working perfectly.
+* 🎲 **[Verified] Random Endpoints:** Fully checked and confirmed to be working perfectly.
 * ⚠️ **[Unchecked] Other Endpoints:** I haven't checked the remaining endpoints yet. They may require some debugging or fixes from the community.
 
 ---
 
 ## 🚀 Quick Deployment
 
-You can host your own instance of this API with just one click using the buttons below:
+You can host your own instance of this API with just one click using the button below:
 
 | Platform | Deployment Button |
 | :--- | :--- |
-| **Render** | [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy) |
-| **Vercel** | [![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new) |
-| **Railway** | [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app/new) |
+| **Render** | [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/tipuraihanff-art/donghuaworld.com-API) |
 
 ---
 
