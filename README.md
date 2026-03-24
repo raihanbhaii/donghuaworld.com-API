@@ -4,8 +4,8 @@
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/tipuraihanff-art/donghuaworld.com-API)
 
-[![GitHub stars](https://img.shields.io/github/stars/tipuraihanff-art/donghuaworld.com-API?style=for-the-badge&color=gold)](https://github.com/tipuraihanff-art/donghuaworld.com-API/stargazers)
-[![Forks](https://img.shields.io/github/forks/tipuraihanff-art/donghuaworld.com-API?style=for-the-badge&color=blue)](https://github.com/tipuraihanff-art/donghuaworld.com-API/network/members)
+[![GitHub stars](https://img.shields.io/github/stars/tipuraihanff-art/donghuaworld.com-API?style=for-the-badge&color=gold)](https://github.com/raihanbhaii/donghuaworld.com-API/stargazers)
+[![Forks](https://img.shields.io/github/forks/tipuraihanff-art/donghuaworld.com-API?style=for-the-badge&color=blue)](https://github.com/raihanbhaii/donghuaworld.com-API/network/members)
 [![License: BSD 3-Clause](https://img.shields.io/badge/License-BSD_3--Clause-blue.svg?style=for-the-badge)](https://opensource.org/licenses/BSD-3-Clause)
 
 </div>
